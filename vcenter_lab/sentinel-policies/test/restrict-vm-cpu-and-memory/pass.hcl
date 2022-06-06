@@ -3,7 +3,7 @@ module "tfplan-functions" {
 }
 mock "tfplan/v2" {
   module {
-    source = "<mock data file for pass condition>"
+    source = "mock data file for pass condition"
   }
 }
 
