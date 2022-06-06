@@ -3,7 +3,7 @@ terraform {
     organization = "cxpm-training"
 
     workspaces {
-      name = "<your workspace name>"
+      name = "your workspace name"
     }
   }
 }
